@@ -1,2 +1,7 @@
 # DevOps-Notes
- Your go-to resource for learning and revising DevOps tools and concepts, simplifying the path to mastering efficient software development and deployment practices
+
+DevOps Fundamentals - covers SDLC, Waterfall, Agile, DevOps, AWS and Azure Devops
+
+Maven Notes - Maven Global Server, Maven Local Repository, Configuration, artifact, Maven number, Maven Project
+
+Linux Fundamentals - File Operations, Directory Operations, Listing and Copying, Text Editing - Vi Editor, Package Management, create a Linux server in AWS
